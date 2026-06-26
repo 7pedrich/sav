@@ -1,4 +1,4 @@
-# Sorting algorithms visualizer
+# Sorting Algorithm Visualizer
 
 A random coding project done in a day <br></br>
 
