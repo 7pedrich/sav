@@ -8,4 +8,6 @@ If you want to see this in Roblox Studio, edit the uncopylocked version that can
 -> Mess with other properties like *bar count* and *internal delay*<br></br>
 -> 🌓Switch between light mode and dark mode<br></br>
 
-!["Home window in darkmode"](./showcases/DarkModeHome.png)
+!["Home window in darkmode"](./showcases/DarkModeHome.png)<br></br>
+!["Home window in lightmode"](./showcases/LightModeHome.png)<br></br>
+!["Render window in lightmode"](./showcases/LightModeRender.png)
