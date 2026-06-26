@@ -1,6 +1,6 @@
 # Sorting algorithms visualizer
 
-A random coding project done in a day <br>M/br>
+A random coding project done in a day <br></br>
 
 If you want to see this in Roblox Studio, edit the uncopylocked version that can be found here: https://www.roblox.com/games/76678611599769/Sorting-Algorithm-Visualizer
 
